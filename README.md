@@ -26,6 +26,7 @@ groceryList.selectPickupTime();
 ## Run the code
 its best to see the code execution from running the command line cmd,
 but your also welcome to use and IDE of your choice.
+To view the code on github, the source code is located in the second branch. (not the main branch)
 
 # To the user
 thank you for the support, and thank you for testing out this code!
